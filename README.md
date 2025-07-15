@@ -55,6 +55,21 @@ Built from scratch using Servlets and MySQL — no frameworks used for auth.
 
 ---
 
+## 🏗 UI Screenshots
+
+<img width="1869" height="939" alt="image" src="https://github.com/user-attachments/assets/fa39116d-23f8-4fc9-b7d9-32ea3c438a59" />
+<img width="1869" height="939" alt="image" src="https://github.com/user-attachments/assets/47e006dd-64b9-4d8f-99b0-cc1eacdc2262" />
+<img width="1869" height="931" alt="image" src="https://github.com/user-attachments/assets/4fcf2930-97a4-435b-bea5-aee975680026" />
+<img width="1844" height="934" alt="image" src="https://github.com/user-attachments/assets/918d69c0-ab2c-4ab0-9ade-14a2412646ac" />
+<img width="1850" height="938" alt="image" src="https://github.com/user-attachments/assets/7dd8872c-bf09-4e25-82a0-7bf9ecb599e5" />
+
+
+
+
+
+
+
+
 ## 🏗️ Folder Structure
 
 ```bash
