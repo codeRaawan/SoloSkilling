@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Level-Up%20Your%20Skills-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Made%20with-Java%20%7C%20Spring%20Boot%20%7C%20JSP-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XP-System-Activated-brightgreen?style=for-the-badge&logo=codeforces" />
 </p>
 
 ---
