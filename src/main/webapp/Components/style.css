@@ -1,0 +1,82 @@
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	  background-image: url("../Images/wallpaper.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100vh;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      color: #ffffff;
+      position: relative;
+    }
+
+    header {
+      position: absolute;
+      top: 30px;
+      left: 40px;
+      font-family: 'Orbitron', sans-serif;
+      font-size: 36px;
+      font-weight: 600;
+      color: #5fffd0;
+      text-shadow: 0 0 10px #5fffd0, 0 0 20px #9e7cff;
+      letter-spacing: 2px;
+      z-index: 10;
+    }
+
+    .cta-box {
+      position: absolute;
+      bottom: 70px;
+      background: rgba(0, 0, 0, 0.3);
+      border-radius: 20px;
+      padding: 20px 30px;
+      box-shadow:
+        0 0 10px #5fffd0,
+        0 0 20px #5fffd0,
+        0 0 30px #9e7cff,
+        0 0 40px rgba(159, 124, 255, 0.6);
+      backdrop-filter: blur(10px);
+      border: 2px solid #5fffd0;
+      z-index: 10;
+    }
+
+    .cta {
+      display: flex;
+      gap: 25px;
+      justify-content: center;
+    }
+
+    .cta a {
+      text-decoration: none;
+      padding: 14px 28px;
+      background: #5fffd0;
+      color: #000;
+      font-weight: bold;
+      border-radius: 8px;
+      font-size: 16px;
+      transition: all 0.3s ease;
+      box-shadow: 0 0 10px #5fffd0;
+    }
+
+    .cta a:hover {
+      background: #00e6a8;
+      transform: scale(1.1);
+      box-shadow: 0 0 20px #00e6a8;
+    }
+
+    footer {
+      position: absolute;
+      bottom: 10px;
+      font-size: 13px;
+      color: #999;
+      z-index: 10;
+    }
